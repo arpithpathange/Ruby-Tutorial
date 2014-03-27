@@ -1,10 +1,7 @@
 require 'twitter' #gem install twitter
 while true
 	begin
-		# Create a read write application from : 
-		# https://apps.twitter.com
-		# authenticate it for your account
-		# fill in the following
+	
 		puts "eeeee"
 		config = {
 			consumer_key:"rpmQLClfhWNVR9fgSxIMyg",
